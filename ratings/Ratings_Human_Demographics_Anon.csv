@@ -1,0 +1,40 @@
+id,name,age,gender,language,occupation,year,study,profactivity,screen_width,screen_height,window_width,window_height
+671,User 32,39,F,English,Other,0,,Chief Assistant Professor,1536,864,1536,703
+672,User 33,36,M,German,Other,0,,Researcher,1440,900,1440,812
+674,User 02,30,M,Português,Other,0,,Estudante de Doutorado,1366,768,1349,641
+675,User 10,38,M,Português,Other,0,,Estudante de Doutorado / Professor,1369,655,1366,647
+676,User 04,24,M,Português,Master student,0,Informática,,1366,768,1366,633
+677,User 12,22,F,Português,Bachelor student,3,Computação,,1366,768,1349,599
+678,User 19,31,F,Português,Other,0,,Estudante de doutorado,1536,864,1536,703
+679,User 06,29,M,Português,Other,0,,Desenvolvedor de Software / Empresário,1920,1080,1928,997
+680,User 15,30,M,Português,Master student,1,IA,,1920,1080,1920,953
+681,User 27,25,M,Português,Master student,1,Educação,,1920,1080,1920,955
+686,User 29,28,M,Português,Other,0,,PhD Candidate,1536,864,1536,743
+687,User 40,28,M,Português,Master student,1,Ciência da Computação,,1920,1080,1879,928
+688,User 14,28,M,Português,Bachelor student,3,Literatura e Linguística,,1366,768,1349,645
+689,User 09,28,M,Português,Other,0,,Professor,1544,735,1536,735
+690,User 13,26,F,Português,Other,0,,UX/UI Designer,1536,864,1536,742
+691,User 36,37,M,Português,Other,0,,Diretor Dpto. de Projetos de Tecnologia e Inovação - Prefeitura de Pato Branco,1080,1920,1080,1785
+692,User 26,41,F,Português,Master student,0,IHC,,1920,1080,1850,932
+694,User 39,43,M,Português,Other,0,,Analista de Tecnologia da Informação,1920,1080,1920,945
+696,User 24,43,M,Português,Other,0,,Docente,1920,1080,1920,899
+697,User 01,29,M,Português,Other,0,,Professor,1366,768,1349,607
+698,User 23,30,M,Português,Other,0,,Professor,1680,1050,1618,963
+700,User 17,32,F,Português,Other,0,,Pesquisadora,1536,864,1519,695
+701,User 07,28,F,Português,Other,0,,Estudante de Doutorado,1920,1080,1920,911
+702,User 28,55,F,Português,Master student,2,Informática - IHC,,1536,864,1518,718
+705,User 18,44,M,Spanish,Other,0,,Researcher / Professor,2560,1440,1693,916
+708,User 48,45,F,Russian,Other,0,,,0,0,0,0
+709,User 47,43,M,Russian,Other,0,,контент,2560,1440,2498,1353
+710,User 52,30,F,Russian,Other,0,,Контент-менеджер,2560,1440,1278,1270
+712,User 41,30,M,Chinese,Master student,3,Health Information Management,,1310,819,1295,654
+713,User 38,29,M,Chinese,Other,0,,phd,1920,1080,1912,920
+715,User 43,29,F,Chinese,Other,0,,Health information management,390,844,980,1684
+716,User 03,24,F,Chinese,Master student,1,digital health,,390,844,980,1669
+720,User 35,28,F,Chinese,Other,0,,phd candidate,1536,864,1513,738
+722,User 53,27,M,Chinese,Master student,3,卫生信息管理,,1536,864,1488,730
+728,User 45,28,M,Chinese,Other,0,,Health Informatics,1536,864,1536,710
+729,User 16,30,M,Spanish,Other,0,,Software developer and researcher,1920,1080,1920,911
+730,User 30,23,F,Chinese,Master student,1,Medicine information,,1707,1067,1699,941
+732,User 34,27,F,Chinese,Master student,1,Health Information Management,,1920,1080,1920,911
+733,User 20,26,M,Spanish,Master student,0,Human-computer interaction,,1366,768,1366,638
