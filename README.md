@@ -89,6 +89,13 @@ It includes:
 Missing values reflect cases where external services failed,
 as described in the paper.
 
+## Reference
+Maxim Bakaev and Julián Grigera. 2026. Rate My Web Design?: Using LLMs
+to Predict Human Subjective Ratings of Generated Web UI Prototypes. In
+2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE-
+Companion ’26), April 12–18, 2026, Rio de Janeiro, Brazil. ACM, New York,
+NY, USA, 2 pages. https://doi.org/10.1145/3774748.3795676
+
 ## License
 
 This repository is released under the same license as the paper
