@@ -16,6 +16,8 @@ used in the study, enabling independent re-analysis and replication of the repor
 │   ├── Ratings_Human_Demographics.csv
 │   └── Ratings_Models_and_PreLLM_Features.csv
 └── stimuli/
+    ├── questionnaire_specs.md
+    ├── questionnaire_screenshot.png
     └── screenshots.zip
 ```
 ---
@@ -25,14 +27,16 @@ used in the study, enabling independent re-analysis and replication of the repor
 ### 1. Stimuli (stimuli/)
 
 - screenshots.zip  
-  Contains the 84 web UI prototypes evaluated in the study.  
+  Contains the 84 web UI prototypes evaluated in the study.
+  Each screenshot corresponds to a unique UI identifier (ui_id) used consistently across all rating files.
 
-Each screenshot corresponds to a unique UI identifier (ui_id) used consistently
-across all rating files.
+  _The web UI screenshots included in this repository were created by Danila Vologdin (advisor: Maxim Bakaev), Novosibirsk State Technical University, Russia, as part of the original UI generation process used in the study._
 
-The web UI screenshots included in this repository were created by
-Danila Vologdin, Novosibirsk State Technical University, Russia,
-as part of the original UI generation process used in the study.
+- questionnaire_specs.md  
+  Contains the specifications for the questionnaire
+  
+- questionnaire_screenshot.png  
+  A screenshot showing a rating screen, from the used web questionnaire
 
 ---
 
